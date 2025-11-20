@@ -94,6 +94,12 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Inici',
+
+          },
+          {
+            to: 'benvinguda-Alejandro',
+            label: 'Benvinguda',
+            position: 'left',
           },
           
           {
@@ -135,10 +141,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
