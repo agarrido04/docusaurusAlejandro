@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocusaurus_alejandro=globalThis.webpackChunkdocusaurus_alejandro||[]).push([[420],{4876:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/docusaurusAlejandro/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
